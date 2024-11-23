@@ -35,7 +35,7 @@ export default async function Home() {
 					.
 				</p> */}
 				<p>
-					<i>Last updated: September 5th, 2024</i>
+					<i>Last updated: October 20th, 2024</i>
 				</p>
 				{/* links */}
 				<section className="flex gap-2">
