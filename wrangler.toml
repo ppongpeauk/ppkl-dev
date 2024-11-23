@@ -1,0 +1,4 @@
+compatibility_date = "2024-11-23"
+compatibility_flags = ["nodejs_compat_v2"]
+name = "ppkl-dev"
+pages_build_output_dir = ".vercel/output/static"
