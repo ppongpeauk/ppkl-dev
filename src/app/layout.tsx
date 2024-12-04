@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Sora } from "next/font/google";
 import "./globals.css";
 
-const mainFont = Sora({ subsets: ["latin"] });
+const mainFont = Sora({ subsets: ["latin"], weight: "400" });
 
 export const metadata: Metadata = {
 	title: "Pete Pongpeauk",
